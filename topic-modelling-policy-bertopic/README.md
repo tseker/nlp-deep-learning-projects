@@ -45,6 +45,11 @@ This project applies **semantic search** and **BERTopic-based topic modeling** t
 - Jupyter Notebook with annotated code
 
 ---
+##  Note
+
+- For convenience, I recommend using Google colab in this project for the learning purposes.
+
+---
 
 ##  Author
 
