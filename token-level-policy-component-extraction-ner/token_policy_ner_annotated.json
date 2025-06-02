@@ -1,0 +1,5666 @@
+[
+  {
+    "id": 0,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u20ac200",
+        "label": "B-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "$1000",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "transportation",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "last",
+        "label": "B-time_period"
+      },
+      {
+        "token": "quarter",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2020",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "subsidy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "consumers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "grant",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "energy",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2021",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "20%",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "next",
+        "label": "B-time_period"
+      },
+      {
+        "token": "year",
+        "label": "I-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "students",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "finance",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2023",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "\u00a350",
+        "label": "B-amount"
+      },
+      {
+        "token": "levy",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "small",
+        "label": "B-target_group"
+      },
+      {
+        "token": "businesses",
+        "label": "I-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "5",
+        "label": "B-amount"
+      },
+      {
+        "token": "million",
+        "label": "I-amount"
+      },
+      {
+        "token": "ban",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "households",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "education",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "tokens": [
+      {
+        "token": "A",
+        "label": "O"
+      },
+      {
+        "token": "10",
+        "label": "B-amount"
+      },
+      {
+        "token": "billion",
+        "label": "I-amount"
+      },
+      {
+        "token": "tax",
+        "label": "B-policy_tool"
+      },
+      {
+        "token": "was",
+        "label": "O"
+      },
+      {
+        "token": "applied",
+        "label": "O"
+      },
+      {
+        "token": "to",
+        "label": "O"
+      },
+      {
+        "token": "farmers",
+        "label": "B-target_group"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "health",
+        "label": "B-sector"
+      },
+      {
+        "token": "in",
+        "label": "O"
+      },
+      {
+        "token": "2022",
+        "label": "B-time_period"
+      },
+      {
+        "token": ".",
+        "label": "O"
+      }
+    ]
+  }
+]
